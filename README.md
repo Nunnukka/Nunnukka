@@ -4,7 +4,7 @@
 - 💞️ I’m looking for some help :D
 - 📫 How to reach me: 
 - 😄 Pronouns: me
-- ⚡ Fun fact: here to learn, taking any help ypu can give
+- ⚡ Fun fact: here to learn, taking any help you can give
 
 <!---
 Nunnukka/Nunnukka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
